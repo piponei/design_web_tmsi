@@ -1,0 +1,19 @@
+h1{
+    color:darkblue;
+    font-size: 24px;
+    text-align: center;
+}
+
+div#imagem{
+    font-size: 8px;
+    text-align: center;
+}
+
+body{
+    background-image: url(imagens/FUNDO.jpg);
+}
+
+tr#sbt{
+    font-weight: bold;
+    text-align: center;
+}
